@@ -13,3 +13,15 @@ git push
 
 
 git pull  
+
+
+git reset --hard  <commit hash>
+git reset --hard origin/master
+
+
+#to know branches
+git branch
+ 
+ #to create branch
+ git checkout -b "branch_name"
+ 
