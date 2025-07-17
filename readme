@@ -13,3 +13,11 @@ git push
 
 
 git pull  
+
+
+#create new branch
+git checkout -b "branch_name"
+
+#to change to a branch
+git checkout "branchname"
+
