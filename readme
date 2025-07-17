@@ -15,9 +15,23 @@ git push
 git pull  
 
 
+
 #create new branch
 git checkout -b "branch_name"
 
 #to change to a branch
 git checkout "branchname"
 
+git reset --hard  <commit hash>
+git reset --hard origin/master
+
+
+#to know branches
+git branch
+ 
+ #to create branch
+ git checkout -b "branch_name"
+ 
+ #to change to a branch
+ git checkout "branchname"
+git merge "branchname"   #from main/master branch
