@@ -5,6 +5,8 @@ git add file
 git add .
 
 git commit -m "msg"
+#add + commit
+git commit -am "msg"
 #to check status
 git status
 git push
